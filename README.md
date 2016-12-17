@@ -1,2 +1,2 @@
 # test-1
-my fist project just a test
+my first project just a test
